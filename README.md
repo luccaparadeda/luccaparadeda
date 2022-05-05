@@ -20,13 +20,13 @@
         <img align="center" alt="Logo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/java-plain.svg"></a>
     </div><br>
     <a href="https://github.com/Luccatp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitassilva&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefreitassilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccatp&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luccatp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
 <div>
     <h2>Contate-me: </h2>
     <a href="mailto:eu.felipefreitassilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/felipefreitassilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <!--<a href="instagram.com/_felipe_fs_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="instagram.com/tisser_lucca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
