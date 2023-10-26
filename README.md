@@ -1,32 +1,124 @@
-<div>
-    <h1>Olá! Me chamo Lucca👋</h1>
-    <p>Sou um estudante de Engenharia de Software na PUC-RS desde 2022, tendo iniciado os estudos de programação 2 anos antes individualmente. Comecei desenvolvendo sites simples com HTML e CSS e no momento estou estudando principalmente Java para a faculdade e React para programar Web sites.</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Lucca</h1></summary>
+  </ul>
 </div>
 
+
+<!--- snake -->
 <div align="center">
-    <h2>Linguagens conhecidas: </h2>
-    <div style="display: inline_block">
-        <a href="https://pt.wikipedia.org/wiki/HTML">
-        <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-        <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets">
-        <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-        <a href="https://www.javascript.com/">
-        <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-        <a href="https://www.typescriptlang.org/">
-        <img align="center" alt="Logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-        <a href="https://reactjs.org/">
-        <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-        <a href="https://www.java.com/">
-        <img align="center" alt="Logo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/java-plain.svg"></a>
-    </div><br>
-    <a href="https://github.com/Luccatp">
-    <img height="180em" src="https://felipefreitassilva-github-readme-stats.vercel.app/api/top-langs/?username=Luccatp&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://felipefreitassilva-github-readme-stats.vercel.app/api?username=Luccatp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
-<div>
-    <h2>Contate-me: </h2>
-    <a href="mailto:luccatisserparadeda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/luccaparadeda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/tisserlucca" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Programming is a type of artistic expression</h2></summary>
+  </ul>
 </div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, Nextjs, Nodejs, Postgres, VanillaJS**
+
+- 🌱 I’m currently learning **Full cycle development**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write articles on [LuccaBlog](https://blog.luccaparadeda.com/)
+
+- 💬 Ask me about **AWS, React, Nextjs, Nodejs, Postgres, VanillaJS**
+
+- 📫 Feel free to reach me out **luccaparadedaprofessional@gmail.com**
+
+- 🏠 Also Follow me on Linkedin [luccaparadeda](https://www.linkedin.com/in/luccaparadeda/).
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Luccatp&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Luccatp&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luccatp&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Luccatp&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,tailwind,css,docker,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,ts,vscode&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/luccaparadeda/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/luccaparadeda/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://blog.luccaparadeda.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Luccatp&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [1010nishant](https://github.com/1010nishant)
+
+Last Edited on: 29/4/2023
