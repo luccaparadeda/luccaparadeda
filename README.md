@@ -26,15 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, Nextjs, Nodejs, Postgres, VanillaJS**
+- 🔭 I’m currently working with these tech's **AWS, React, Nextjs, Nodejs, Postgres, VanillaJS**
 
-- 🌱 I’m currently learning **Full cycle development**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🌱 I’m currently learning **AI CI**
 
 - 📝 I regularly write articles on [LuccaBlog](https://blog.luccaparadeda.com/)
 
-- 💬 Ask me about **AWS, React, Nextjs, Nodejs, Postgres, VanillaJS**
+- 💬 Ask me about **anything related to web dev**
 
 - 📫 Feel free to reach me out **luccaparadedaprofessional@gmail.com**
 
